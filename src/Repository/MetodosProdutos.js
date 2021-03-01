@@ -1,4 +1,4 @@
-const conexao = require('../Repository/ConexaoBD');
+const conexao = require('./db');
 
 exports.post = (req, res, next) => {
     let id = req.body.id;
@@ -17,7 +17,7 @@ exports.post = (req, res, next) => {
                 status: 'Inserido com Sucesso'
             });
 
-                   else
+        else
             res.send("Erro ao Inserir Produto ");
 
     });

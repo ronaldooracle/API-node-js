@@ -1,6 +1,6 @@
-const ProdutosRoute = require('./ProdutosRoute');
+const ControllerProduto = require('../Controllers/ControllerProdutos');
 
 module.exports = (app) => {
-    ProdutosRoute(app)
+    ControllerProduto(app)
 
 }

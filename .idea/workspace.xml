@@ -17,6 +17,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitCassems/informa-api" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -28,8 +29,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dev\Desktop\ApRouter\src" />
+      <recent name="C:\Users\dev\Desktop\ApRouter\src\Routes" />
       <recent name="C:\Users\dev\Desktop\ApRouter" />
+      <recent name="C:\Users\dev\Desktop\ApRouter\src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -41,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614362455563</updated>
       <workItem from="1614362457045" duration="7857000" />
+      <workItem from="1614608880006" duration="6053000" />
     </task>
     <servers />
   </component>
